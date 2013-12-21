@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Scripts.ScriptHolder[]">
+    <Item>
+      <LanguageName>English</LanguageName>
+      <mainMenuScript>
+        <Play>Play</Play>
+        <ContentEditor>Particle Editor</ContentEditor>
+        <Language>Change language</Language>
+        <Exit>Exit</Exit>
+        <Jump>Jump</Jump>
+        <Shoot>Shoot</Shoot>
+      </mainMenuScript>
+      <pauseMenuScript>
+        <Resume>Resume</Resume>
+        <Exit>Exit to Main Menu</Exit>
+      </pauseMenuScript>
+      <particleEditorScript>
+        <StartSize>Starting Color</StartSize>
+        <EndSize>Ending Color</EndSize>
+        <Color>Size</Color>
+        <Exit>Exit</Exit>
+      </particleEditorScript>
+      <colorScript>
+        <White>White</White>
+        <Black>Black</Black>
+        <Gray>Gray</Gray>
+        <DarkGray>Dark Gray</DarkGray>
+        <LightGray>Light Gray</LightGray>
+        <Yellow>Yellow</Yellow>
+        <Blue>Blue</Blue>
+      </colorScript>
+    </Item>
+    <Item>
+      <LanguageName>French</LanguageName>
+      <mainMenuScript>
+        <Play>Jouer</Play>
+        <ContentEditor>Editeur du Particule</ContentEditor>
+        <Language>Changer la Langue</Language>
+        <Exit>Quitter</Exit>
+        <Jump>Aller</Jump>
+        <Shoot>Tourner</Shoot>
+      </mainMenuScript>
+      <pauseMenuScript>
+        <Resume>Reprendre</Resume>
+        <Exit>Sortie au Menu Principal</Exit>
+      </pauseMenuScript>
+      <particleEditorScript>
+        <StartSize>Couleur de Depart</StartSize>
+        <EndSize>Couleur de Fin</EndSize>
+        <Color>Taille</Color>
+        <Exit>Quitter</Exit>
+      </particleEditorScript>
+      <colorScript>
+        <White>Blanc</White>
+        <Black>Noir</Black>
+        <Gray>Gris</Gray>
+        <DarkGray>Sombre Gris</DarkGray>
+        <LightGray>Clair Gris</LightGray>
+        <Yellow>Jaune</Yellow>
+        <Blue>Bleu</Blue>
+      </colorScript>
+    </Item>
+  </Asset>
+  
+</XnaContent>
